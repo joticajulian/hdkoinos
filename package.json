@@ -11,7 +11,6 @@
   ],
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "browser": "./lib/browser/index.js",
   "scripts": {
     "audit": "audit-ci",
     "build": "rimraf lib && tsc",
