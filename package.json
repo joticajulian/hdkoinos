@@ -1,6 +1,6 @@
 {
   "name": "@koinosbox/hdkoinos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hierarchical deterministic wallet for koinos blockchain",
   "author": "Julian Gonzalez",
   "repository": {
